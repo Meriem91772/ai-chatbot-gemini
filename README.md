@@ -1,18 +1,17 @@
 # ✨ Gemini AI Chatbot
 
 <p align="center">
-  <b>A sleek full-stack AI chatbot built with Next.js, TypeScript, and the Google Gemini API</b>
+  <a href="https://ai-chatbot-gemini-one.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Meriem91772/ai-chatbot-gemini">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-1F2937?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/NEXT.JS-16-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-READY-3B82F6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEMINI-AI-06B6D4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEPLOYED%20ON-VERCEL-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-
-<p align="center">
-  <a href="https://ai-chatbot-gemini-one.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Meriem91772/ai-chatbot-gemini"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
 ---
 
 ## 🌸 Overview
@@ -31,25 +30,25 @@ It may look simple on the surface, but it teaches the exact workflow behind many
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 **Try the app here:**  
 [https://ai-chatbot-gemini-one.vercel.app/](https://ai-chatbot-gemini-one.vercel.app/)
 
 ---
 
-## 🖼 Features
+##  Features
 
-- 💬 Clean chatbot interface
-- ⚡ Fast prompt-to-response interaction
-- 🤖 AI-generated answers powered by **Gemini**
-- 🔐 Secure API key handling with environment variables
-- 🌐 Public deployment with **Vercel**
-- 🎨 Beginner-friendly and easy to extend
+-  Clean chatbot interface
+-  Fast prompt-to-response interaction
+-  AI-generated answers powered by **Gemini**
+-  Secure API key handling with environment variables
+-  Public deployment with **Vercel**
+-  Beginner-friendly and easy to extend
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Technology | Role |
 |-----------|------|
@@ -62,7 +61,7 @@ It may look simple on the surface, but it teaches the exact workflow behind many
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 The application follows a simple but powerful flow:
 
