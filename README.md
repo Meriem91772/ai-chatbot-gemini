@@ -1,48 +1,84 @@
-# Gemini AI Chatbot
+# ✨ Gemini AI Chatbot
 
-A clean and beginner-friendly AI chatbot built with **Next.js**, **TypeScript**, and the **Google Gemini API**.  
-This project lets users send prompts through a simple web interface and receive AI-generated responses in real time.
+<p align="center">
+  <b>A sleek full-stack AI chatbot built with Next.js, TypeScript, and the Google Gemini API</b>
+</p>
 
-**Live Demo:** [ai-chatbot-gemini-one.vercel.app](https://ai-chatbot-gemini-one.vercel.app/)
+<p align="center">
+  <a href="https://ai-chatbot-gemini-one.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Meriem91772/ai-chatbot-gemini"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
-## Overview
+## 🌸 Overview
 
-This project was created as a first hands-on AI engineering project to learn how to:
+**Gemini AI Chatbot** is a modern AI web application that allows users to interact with the **Google Gemini API** through a simple and elegant chatbot interface.
 
-- build a modern web app with **Next.js**
+This project was built as part of an AI engineering learning journey to understand how to:
+
+- build a real **full-stack AI application**
 - connect a frontend to a backend API route
-- integrate the **Gemini API**
-- manage environment variables securely
-- deploy a full-stack AI app with **Vercel**
+- send prompts to a large language model
+- handle API keys securely with environment variables
+- deploy a production-style app with **Vercel**
 
-It is a simple project, but it covers the core foundations behind many real AI applications.
-
----
-
-## Features
-
-- Simple and clean chatbot interface
-- Real-time AI responses using **Gemini**
-- Backend API route with **Next.js App Router**
-- Environment variable support for secure API key handling
-- Deployed publicly on **Vercel**
+It may look simple on the surface, but it teaches the exact workflow behind many modern AI products.
 
 ---
 
-## Tech Stack
+## 🚀 Live Demo
 
-- **Next.js**
-- **React**
-- **TypeScript**
-- **Tailwind CSS**
-- **Google Gemini API**
-- **Vercel**
+🔗 **Try the app here:**  
+[https://ai-chatbot-gemini-one.vercel.app/](https://ai-chatbot-gemini-one.vercel.app/)
 
 ---
 
-## Project Structure
+## 🖼 Features
+
+- 💬 Clean chatbot interface
+- ⚡ Fast prompt-to-response interaction
+- 🤖 AI-generated answers powered by **Gemini**
+- 🔐 Secure API key handling with environment variables
+- 🌐 Public deployment with **Vercel**
+- 🎨 Beginner-friendly and easy to extend
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Role |
+|-----------|------|
+| **Next.js** | Full-stack React framework |
+| **React** | Frontend UI |
+| **TypeScript** | Type safety |
+| **Tailwind CSS** | Styling |
+| **Google Gemini API** | AI responses |
+| **Vercel** | Deployment |
+
+---
+
+## 🧠 How It Works
+
+The application follows a simple but powerful flow:
+
+1. The user types a message into the chatbot interface  
+2. The frontend sends the prompt to a backend API route  
+3. The backend communicates with the **Gemini API**  
+4. Gemini generates a response  
+5. The response is returned and displayed in the UI  
+
+In short:
+
+**User → Frontend → API Route → Gemini → Response → UI**
+
+---
+
+## 📁 Project Structure
 
 ```bash
 app/
@@ -67,3 +103,4 @@ next.config.ts
 postcss.config.mjs
 eslint.config.mjs
 .gitignore
+README.md
